@@ -14,12 +14,7 @@ from bot.core.registrator import register_sessions
 
 
 start_text = """
-       _____ ______ ______ _____
-      / ____|  ____|  ____|  __ \
-     | (___ | |__  | |__  | |  | |
-      \___ \|  __| |  __| | |  | |
-      ____) | |____| |____| |__| |
-     |_____/|______|______|_____/
+       
 JOIN FOR MORE SCRIPTS: https://t.me/scripthub00                                                                                                    
                                                                    
 Select an action:
