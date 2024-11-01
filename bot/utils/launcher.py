@@ -20,7 +20,6 @@ start_text = """
       \___ \|  __| |  __| | |  | |
       ____) | |____| |____| |__| |
      |_____/|______|______|_____/
-
 JOIN FOR MORE SCRIPTS: https://t.me/scripthub00                                                                                                    
                                                                    
 Select an action:
