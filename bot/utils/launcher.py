@@ -14,7 +14,6 @@ from bot.core.registrator import register_sessions
 
 
 start_text = """
-
        _____ ______ ______ _____
       / ____|  ____|  ____|  __ \
      | (___ | |__  | |__  | |  | |
